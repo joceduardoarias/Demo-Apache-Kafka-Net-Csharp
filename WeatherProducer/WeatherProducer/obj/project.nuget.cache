@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "apRrLB55OoTIXYqqxJSsGU1EBn94UjAkxYOWFa0+fw6uy1A/ty1A90KzrqNit7G7P30FtQGi4Qc94ZaGQK6cLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\02204\\Documents\\Proys\\Kafka-Net-C#\\Demo-Apache-Kafka-Net-Csharp\\WeatherProducer\\WeatherProducer\\WeatherProducer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\02204\\.nuget\\packages\\confluent.kafka\\2.2.0\\confluent.kafka.2.2.0.nupkg.sha512",
+    "C:\\Users\\02204\\.nuget\\packages\\librdkafka.redist\\2.2.0\\librdkafka.redist.2.2.0.nupkg.sha512",
+    "C:\\Users\\02204\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\02204\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
