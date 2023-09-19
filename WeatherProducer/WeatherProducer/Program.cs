@@ -15,6 +15,7 @@ try
 		new Message<Null, string> { Value = JsonConvert.SerializeObject(
 			new Weather(state,70))
 		});
+		Console.WriteLine(response.Result.Value);
     }
 	
 }
