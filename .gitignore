@@ -67,3 +67,9 @@ bin/
 obj/
 out/
 appsettings*.json
+
+# Ignorar la carpeta .vs y todo su contenido
+.vs/
+
+# Ignorar archivos .vsidx
+*.vsidx
