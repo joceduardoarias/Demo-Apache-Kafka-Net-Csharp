@@ -70,6 +70,10 @@ appsettings*.json
 
 # Ignorar la carpeta .vs y todo su contenido
 .vs/
+.vs/
+*.metadata.v5.2
+*.projects.v5.2
+*.futdcache.v2
 
 # Ignorar archivos .vsidx
 *.vsidx
